@@ -2,6 +2,8 @@
 
 ### This is a simple example of how you can accept payments by integrating our [Checkout PRO](https://www.mercadopago.com/developers/en/guides/online-payments/checkout-pro/introduction)
 
+check
+
 ### In this repository you will find two main folders:
 
 - `client`:
